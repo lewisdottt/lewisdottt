@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lewisdottt
-- 👀 I’m interested in hating myself through excessive programming
-- 🌱 I’m currently learning C/C++/C#/Go
+- 👋 Hi, I’m @sawyerh2000
+- 👀 I’m interested in exploring the expanses of software engineering knowledge!
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on literally anything please help
-- 📫 How to reach me lewis.dottt@gmail.com
+- 📫 How to reach me sawyerh2000@gmail.com
 
 <!---
 lewisdottt/lewisdottt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
